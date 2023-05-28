@@ -1,11 +1,11 @@
-package cl.paseodelasdelicias.limits.controller;
+package cl.cloud.app.limits.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import cl.paseodelasdelicias.limits.model.Configuration;
-import cl.paseodelasdelicias.limits.model.LimitConfiguration;
+import cl.cloud.app.limits.model.Configuration;
+import cl.cloud.app.limits.model.LimitConfiguration;
 
 
 @RestController

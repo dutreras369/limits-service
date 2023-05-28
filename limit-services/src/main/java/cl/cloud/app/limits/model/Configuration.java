@@ -1,4 +1,4 @@
-package cl.paseodelasdelicias.limits.model;
+package cl.cloud.app.limits.model;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package cl.paseodelasdelicias.limits.model;
+package cl.cloud.app.limits.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
